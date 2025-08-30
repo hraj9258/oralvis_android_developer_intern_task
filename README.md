@@ -28,3 +28,7 @@
 - **Navigation Compose** (for navigation)
 - **Coil** (for image loading)
 
+## Demo WorkFlow Videos
+
+- [Demo Video 1](https://drive.google.com/file/d/158XrIzEOr0axPkE-veLwiQJ4Nh1b7-BO/view?usp=sharing)
+- [Demo Video 2](https://drive.google.com/file/d/1DJkqb1esZj4pWkb9GzNxcoivlV9kmI24/view?usp=sharing)
